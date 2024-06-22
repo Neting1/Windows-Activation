@@ -7,6 +7,12 @@ Step 1. You have to open the command prompt on your system first. Then, click an
 
 
 Step 2. Type the following command
-	- slmgr /ipk "type your windows version license here"
-	- slmgr /skms kms.xspace.in
-	- slmgr /ato
+	
+
+- slmgr /ipk "type your windows version license here"
+	
+
+- slmgr /skms kms.xspace.in
+	
+
+- slmgr /ato
